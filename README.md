@@ -1,4 +1,4 @@
-# Python学习笔记
+# Python3.x学习笔记
 - Python基础语法
 - Python面向对象编程
 - Python标准库
